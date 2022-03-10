@@ -3,7 +3,15 @@ using namespace std;
 
 int main()
 {
-   cout<<"Hello, World!"<<endl;
+<<<<<<< HEAD
 
+   cout<<"Hello, World!"<<endl;
+   cout<<"Hello, git!"<<endl;
+
+
+=======
+   cout<<"Hello, git!"<<endl;
+
+>>>>>>> hello-git
    return 0;
 }
