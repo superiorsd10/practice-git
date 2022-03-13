@@ -1,0 +1,10 @@
+Before getting into OSP, ask yourself the WHY behind it. After getting into it, "be kind" to others. It can include thanking people for their help, respecting others, and being supportive. Don't judge contributors by their knowledge.
+
+If you are a beginner, it's good to start your journey by solving a "good first issue". Read the README.md file before starting contributing.  
+
+There are some good practices in OSP like discussing one topic per issue, fixing one issue per PR. 
+Patience plays an important role in OSP contribution. So keep patience while waiting for PR review. 
+
+I would like to add one thing that you can also learn new technologies while contributing to OSPs. Keep your PR clean & concise. 
+
+
